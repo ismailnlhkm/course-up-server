@@ -1,0 +1,32 @@
+[
+  {
+    "name": "C++",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png",
+    "mentor": "Ahmad"
+  },
+  {
+    "name": "Python",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
+    "mentor": "Ahmad"
+  },
+  {
+    "name": "Javascript",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+    "mentor": "Budi"
+  },
+  {
+    "name": "Golang",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png",
+    "mentor": "Rahmad"
+  },
+  {
+    "name": "PHP",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Php_logo.svg/2560px-Php_logo.svg.png",
+    "mentor": "Dian"
+  },
+  {
+    "name": "HTML",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png",
+    "mentor": "Galuh"
+  }
+]
